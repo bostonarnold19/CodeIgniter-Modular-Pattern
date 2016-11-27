@@ -1,0 +1,39 @@
+.shopter-custom-input {
+	height: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #888;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 3px solid #FFF;
+}
+
+.shopter-custom-input:focus {
+    border: 3px solid #19AFFF;
+}
+
+.shopter-custom-button {
+    padding: 15px;
+    background: #19AFFF;
+    border: 0;
+    font-size: 15px;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    white-space: nowrap;
+    display: inline-block;
+    width: 100%;
+}
+
+.shopter-custom-button:hover { 
+    background: #19BEEE;
+}
+
+.shopter-custom-button:active { 
+    background: #19BEEE;
+}
+
+.shopter-custom-button:focus { 
+    background: #19BEEE;
+}
